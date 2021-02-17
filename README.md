@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 ### QTranspose
 QTranspose is a cyber security researcher.
 
-[![QTranspose's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtranspose&show_icons=true&theme=radical)](https://github.com/QTranspose/QTranspose)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtranspose&theme=radical)](https://github.com/QTranspose/QTranspose)
+---
+[![QTranspose's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtranspose&show_icons=true&theme=tokyonight)](https://github.com/QTranspose/QTranspose)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtranspose&theme=tokyonight)](https://github.com/QTranspose/QTranspose)
