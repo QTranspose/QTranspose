@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+---
+
+[![QTranspose's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtranspose&show_icons=true&count_private=true&hide_border=true)](https://github.com/QTranspose/QTranspose)
+
 -->
 
 ### QTranspose
 QTranspose is a cyber security researcher.
 
----
 
-[![QTranspose's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtranspose&show_icons=true&count_private=true&hide_border=true)](https://github.com/QTranspose/QTranspose)
