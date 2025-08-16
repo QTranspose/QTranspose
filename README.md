@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 -->
 
 ### QTranspose
-QTranspose is a cyber security researcher.
+QTranspose is a cybersecurity researcher.
 
 
